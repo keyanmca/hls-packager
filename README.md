@@ -1,4 +1,4 @@
 hls-packager
 ============
 
-Create hls server by ffmpeg and nc
+HLS Packager use FFmpeg and nc(netcat) tools
